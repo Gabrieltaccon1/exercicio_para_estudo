@@ -1,0 +1,8 @@
+C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\bin\Debug\netcoreapp2.2\Desafio_sexta_26_07.deps.json
+C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\bin\Debug\netcoreapp2.2\Desafio_sexta_26_07.runtimeconfig.json
+C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\bin\Debug\netcoreapp2.2\Desafio_sexta_26_07.runtimeconfig.dev.json
+C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\bin\Debug\netcoreapp2.2\Desafio_sexta_26_07.dll
+C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\obj\Debug\netcoreapp2.2\Desafio_sexta_26_07.csprojAssemblyReference.cache
+C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\obj\Debug\netcoreapp2.2\Desafio_sexta_26_07.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\obj\Debug\netcoreapp2.2\Desafio_sexta_26_07.AssemblyInfoInputs.cache
+C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\obj\Debug\netcoreapp2.2\Desafio_sexta_26_07.AssemblyInfo.cs
