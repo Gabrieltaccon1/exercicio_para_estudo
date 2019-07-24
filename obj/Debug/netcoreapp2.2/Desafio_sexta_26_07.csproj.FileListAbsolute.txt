@@ -6,3 +6,6 @@ C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\obj\
 C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\obj\Debug\netcoreapp2.2\Desafio_sexta_26_07.csproj.CoreCompileInputs.cache
 C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\obj\Debug\netcoreapp2.2\Desafio_sexta_26_07.AssemblyInfoInputs.cache
 C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\obj\Debug\netcoreapp2.2\Desafio_sexta_26_07.AssemblyInfo.cs
+C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\bin\Debug\netcoreapp2.2\Desafio_sexta_26_07.pdb
+C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\obj\Debug\netcoreapp2.2\Desafio_sexta_26_07.dll
+C:\Users\Treinamento 4\source\repos\Desafio_sexta_26_07\Desafio_sexta_26_07\obj\Debug\netcoreapp2.2\Desafio_sexta_26_07.pdb

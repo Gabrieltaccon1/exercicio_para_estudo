@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using Newtonsoft.Json;
+using System.IO;
+
 
 namespace Desafio_sexta_26_07
 {
@@ -13,8 +17,22 @@ namespace Desafio_sexta_26_07
             //remover um registro
             //salvar alteração em um novo arquivo json e manter o original intacto
             //
-       
-            Console.WriteLine("Hello World!");
+            Pessoas p = new Pessoas();
+            
+
+            string path = @"C:\Users\Treinamento 4\Desktop\exercicio_estudo\Trabalho.json";
+            var file = File.ReadAllText(path);
+            var lstResults = JsonConvert.DeserializeObject<List<Pessoas>>(file);
+
+
+           // p.ImprimePessoas(p);
+
+            foreach (var printf in lstResults)
+            {
+                Console.WriteLine(printf.ToString());
+                Console.WriteLine();
+            }
+
         }
     }
 }
