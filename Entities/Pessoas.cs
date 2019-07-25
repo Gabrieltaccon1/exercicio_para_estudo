@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Desafio_sexta_26_07
 {
-    class Pessoas
+   public class Pessoas
     {
         public string _Id { get; set; }
         public string Index { get; set; }
@@ -38,7 +38,7 @@ namespace Desafio_sexta_26_07
 
         public override string ToString()
         {
-            return $"{_Id},{Index},{Guid},{IsActie},{Balance},{Picture},{Age},{EyeColor},{Name},{Gender},{Company},{Email},{Phone },{ Address },{Registered},{ Latitude},{Longitude },{LstTags},{Friends},{Greeting},{FavoriteFruit},{emissaoDigital}";
+            return $"INDEX:{Index} \nNAME: {Name}, GENDER:{Gender}\nGUID: {Guid} | IsActie{IsActie}\nBALANCE:{Balance} PICTURE: {Picture} AGE: {Age}, EYECOLOR:{EyeColor}\nCOMPANY: {Company}\nEMAIL:{Email} | PHONE: {Phone } | ADDRESS:{ Address } | REGISTERED:{Registered}\nLATITUDE:{ Latitude} LONGITUDE:{Longitude }\nGREETING:{Greeting}, FAVORITE FRUIT: {FavoriteFruit}";
         }
 
 

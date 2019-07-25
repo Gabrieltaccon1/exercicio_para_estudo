@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Desafio_sexta_26_07
 {
-    class EmissaoDigital
+    public class EmissaoDigital
     {
 
         public Sms sms { get; set; }

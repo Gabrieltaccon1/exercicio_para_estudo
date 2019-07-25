@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Desafio_sexta_26_07
 {
-    class Friends
+    public class Friends
     {
         public string Id_friend { get; set; }
         public string Name_friend { get; set; }
